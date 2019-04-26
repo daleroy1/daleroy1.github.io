@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Toy Shopping Checkout - Part 1
-published: true
+published: false
 ---
 
 I've had an idea for a few years, about creating a fully working childrens tyo checkout and being able to scan toy food items in real time and have it show the item name and price. My initial thoughts were to use a Raspberry Pi, a USB barcode scanner and some Python to link it all up. I was originally put off by the cost of barcode scanners, so shelved the idea.

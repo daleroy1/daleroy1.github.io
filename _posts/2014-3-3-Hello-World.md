@@ -4,7 +4,7 @@ title: Toy Shopping Checkout - Part 1
 published: true
 ---
 
-I've had an idea for a few years now of creating a fully working childrens to checkoutm, being able to scan toy food items, have it show the item name and price and give a total cost of the shopping. My initial thoughts were to use a Raspberry Pi, a USB barcode scanner and some Python to link it all up. I was originally put off by the cost of barcode scanners, so shelved the idea.
+I've had an idea for a few years, about creating a fully working childrens tyo checkout and being able to scan toy food items in real time and have it show the item name and price. My initial thoughts were to use a Raspberry Pi, a USB barcode scanner and some Python to link it all up. I was originally put off by the cost of barcode scanners, so shelved the idea.
 
 Around a month ago, I stumbled upon this [page](https://www.pyimagesearch.com/2018/05/21/an-opencv-barcode-and-qr-code-scanner-with-zbar/), which had code examples and explanations on how to use a Pi camera to read barcodes. I got the code working reading a QR code from a random image and realised that I could probably do this, so ordered a cheap Pi camera online ($13). Once that arrived, it didn't take long to get it scanning QR codes off my phone screen.
 

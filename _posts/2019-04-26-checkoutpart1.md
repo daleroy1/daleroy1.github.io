@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Toy Shopping Checkout - Part 1
 
@@ -42,4 +42,3 @@ I hunted around and found a cheap ($11) [GUI pack ](https://creativemarket.com/p
 ![image-2.PNG]({{site.baseurl}}/images/image-2.PNG)
 
 With the UI taking shape, I needed to build the actual physical checkout, which I'll cover in Part 2.
-
